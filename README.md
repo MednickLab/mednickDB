@@ -124,11 +124,11 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). -->
 
 ## Authors
-* **Ben Yetton** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Ben Yetton** - *Initial work* - [bdyetton](https://github.com/bdyetton)
 * **Hayden Baker** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 * **Jesse** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 * **Juan Antonio** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Kevin Yen** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Kevin Zhen** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 * **Nelly** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 * **Sehoon** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
