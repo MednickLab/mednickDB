@@ -1,5 +1,7 @@
 # Mednick DB
 
+More docs [here](https://mednicklab.github.io/mednickDB/)
+
 <p>
     Application is to house all mednick lab files. Files are systematically stored according to their metadata, to allow for easy indexing. With researchers requiring access to the data within the files, scripts housed on server read/parse data and store it in DB. Files and data may be accessed through endpoints using the included angular client, or through any method allowing HTTP requests (i.e Python, MATLAB).
 </p>
