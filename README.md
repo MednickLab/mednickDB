@@ -2,6 +2,8 @@
 
 More docs [here](https://mednicklab.github.io/mednickDB/)
 
+NOTE: The most up to date, workable, code is stored in [bitbucket](https://bitbucket.org/mednicklab/mednickdb) (password protected). This repo is old and unused, however, the steps for deployment and docs are still useful.
+
 <p>
     Application is to house all mednick lab files. Files are systematically stored according to their metadata, to allow for easy indexing. With researchers requiring access to the data within the files, scripts housed on server read/parse data and store it in DB. Files and data may be accessed through endpoints using the included angular client, or through any method allowing HTTP requests (i.e Python, MATLAB).
 </p>
